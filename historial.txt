@@ -1,0 +1,5 @@
+* 7a714db feat: completar funcion para validar numero par
+* f1e0670 feat: agregar funcion para verificar numero par
+* 8379587 feat: agregar funcion para calcular descuento
+* 412ac89 docs: agregar fecha al archivo de presentacion
+* 0e40d66 feat agregar presentacion del estudiante
